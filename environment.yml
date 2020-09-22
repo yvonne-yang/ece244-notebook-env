@@ -6,4 +6,3 @@ dependencies:
   - cling
   - xeus-cling
   - notebook
-prefix: /opt/miniconda3/envs/xeus-cling
